@@ -5,5 +5,5 @@ With an eye for detail and a deep curiosity for emerging tech, I'm constantly ex
 
 ### 🤝 Let's Connect
 - 📫 Email: [mlakshya05@gmail.com](mailto:mlakshya05@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/Lakshya .M ](www.linkedin.com/in/lakshya017)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lakshya017)
 
